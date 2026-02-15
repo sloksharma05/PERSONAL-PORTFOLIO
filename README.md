@@ -3,7 +3,7 @@
 
 Welcome! This is the source code for my personal portfolio website, designed to showcase my skills, projects, and journey as a computer science student. It was built from scratch with a focus on clean design, smooth animations, and a great user experience.
 
-### ✨ **[View the Live Demo Here!]()** ✨
+### ✨ **[View the Live Demo Here!](https://sloksharma05.github.io/PERSONAL-PORTFOLIO/)** ✨
 
 
 
@@ -37,7 +37,7 @@ Want to run this project on your own machine? It's simple!
 
 1.  **Clone the repository:**
     
-    git clone https://github.com/techieujjwal/portfolio
+    git clone 
 2.  **Navigate to the project directory:**
     
     cd portfolio
