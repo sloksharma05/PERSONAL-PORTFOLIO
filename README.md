@@ -51,8 +51,8 @@ And that's it! No complex builds or dependencies needed.
 
 I'm always open to new opportunities, collaborations, or just a friendly chat. Feel free to reach out!
 
-* **LinkedIn:** [https://www.linkedin.com/in/slok-sharma-b213393a9]
+* **LinkedIn:** [https://www.linkedin.com/in/slok-sharma-b213393a9/]
 * **GitHub:** [@sloksharma05](https://github.com/sloksharma05)
 * **Email:** sloksharma2005@gmail.com
-
+  
 Thank you for visiting my project!
