@@ -37,7 +37,7 @@ Want to run this project on your own machine? It's simple!
 
 1.  **Clone the repository:**
     
-    git clone 
+    git clone https://github.com/sloksharma05/PERSONAL-PORTFOLIO
 2.  **Navigate to the project directory:**
     
     cd portfolio
@@ -51,8 +51,8 @@ And that's it! No complex builds or dependencies needed.
 
 I'm always open to new opportunities, collaborations, or just a friendly chat. Feel free to reach out!
 
-* **LinkedIn:** [linkedin.com]
-* **GitHub:** [@sloksharma05](https://github.com/SLOKSHARMA2005)
-* **Email:** sloksharma2005@gmail
+* **LinkedIn:** [https://www.linkedin.com/in/slok-sharma-b213393a9]
+* **GitHub:** [@sloksharma05](https://github.com/sloksharma05)
+* **Email:** sloksharma2005@gmail.com
 
 Thank you for visiting my project!
